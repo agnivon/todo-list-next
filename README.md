@@ -1,6 +1,6 @@
 # To-Do List App
 
-This is a simple to-do list application built using Next.js, a React framework that allows for easy development of web and native applications. This app is designed to run seamlessly on any browser, making it accessible and convenient for users across different platforms.
+This is a simple to-do list application built using Next.js - a React framework that allows for easy development of web and native applications. This app is designed to run seamlessly on any browser, making it accessible and convenient for users across different platforms.
 
 ## Features
 - Add, edit, and delete tasks to manage your to-do list efficiently.
